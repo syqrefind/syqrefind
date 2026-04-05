@@ -4,8 +4,8 @@
 🌱 I'm currently a **Software Engineer** at Microsoft.  
 💞️ I'm looking for new opportunities as a **Software Engineer**, **Distributed Systems Engineer**, or **AI Infrastructure Engineer**.  
 📫 How to reach me:
-- ✉️ Email: [yuchenh996@gmail.com](mailto:yuchenh996@gmail.com)
-- 💼 LinkedIn: [yuchen-huang-sjtu](https://www.linkedin.com/in/yuchen-huang-sjtu/)
+- ✉️ Email: [syqrefind@gmail.com](mailto:syqrefind@gmail.com)
+- 💼 LinkedIn: [yunqi-shen](https://www.linkedin.com/in/yunqi-shen/)
 
 ---
 
