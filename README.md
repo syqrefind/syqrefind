@@ -1,8 +1,8 @@
 # 👋 Hi, I'm @syqrefind (Yuchen Huang)
 
-👀 I'm interested in **data science** and **problem solving**.  
-🌱 I'm currently a **Senior Data & Analytics Consultant** at EY.  
-💞️ I'm looking for new opportunities as a **Data Scientist**, **Business Intelligence Engineer**, or **Data Analyst**.  
+👀 I'm interested in **distributed systems**, **databases**, and **AI infra**.  
+🌱 I'm currently a **Software Engineer** at Microsoft.  
+💞️ I'm looking for new opportunities as a **Software Engineer**, **Distributed Systems Engineer**, or **AI Infrastructure Engineer**.  
 📫 How to reach me:
 - ✉️ Email: [yuchenh996@gmail.com](mailto:yuchenh996@gmail.com)
 - 💼 LinkedIn: [yuchen-huang-sjtu](https://www.linkedin.com/in/yuchen-huang-sjtu/)
