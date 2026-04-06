@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @syqrefind (Yuchen Huang)
+# 👋 Hi, I'm @syqrefind (Edward Shen)
 
 👀 I'm interested in **distributed systems**, **databases**, and **AI infra**.  
 🌱 I'm currently a **Software Engineer** at Microsoft.  
