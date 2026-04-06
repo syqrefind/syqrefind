@@ -5,7 +5,7 @@
 💞️ I'm looking for new opportunities as a **Software Engineer**, **Distributed Systems Engineer**, or **AI Infrastructure Engineer**.  
 📫 How to reach me:
 - ✉️ Email: [syqrefind@gmail.com](mailto:syqrefind@gmail.com)
-- 💼 LinkedIn: [yunqi-shen](https://www.linkedin.com/in/yunqi-shen/)
+- 💼 LinkedIn: [edward-shen](https://www.linkedin.com/in/yunqi-shen/)
 
 ---
 
